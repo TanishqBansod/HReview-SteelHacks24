@@ -1,4 +1,6 @@
-# Project Story
+# HReview
+
+![HReview Icon](https://github.com/user-attachments/assets/9ce1db69-2821-4f94-9bab-c4ac1e25c118)
 
 ## Inspiration
 
